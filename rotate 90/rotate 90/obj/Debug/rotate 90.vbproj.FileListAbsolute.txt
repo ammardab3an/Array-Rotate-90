@@ -1,0 +1,12 @@
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\bin\Debug\rotate 90.exe.config
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\bin\Debug\rotate 90.exe
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\bin\Debug\rotate 90.pdb
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\bin\Debug\rotate 90.xml
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\obj\Debug\rotate 90.vbprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\obj\Debug\rotate_90.Resources.resources
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\obj\Debug\rotate 90.vbproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\obj\Debug\rotate 90.exe
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\obj\Debug\rotate 90.xml
+c:\users\windows\documents\visual studio 2017\Projects\rotate 90\rotate 90\obj\Debug\rotate 90.pdb
+C:\Users\Windows\Documents\Visual Studio 2017\Projects\rotate 90\rotate 90\obj\Debug\rotate_90.Form2.resources
+C:\Users\Windows\Documents\Visual Studio 2017\Projects\rotate 90\rotate 90\obj\Debug\rotate_90.Form.resources
